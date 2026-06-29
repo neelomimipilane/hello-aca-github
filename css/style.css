@@ -8,3 +8,13 @@ body {
 h1 {
   color: #2d6a4f;
 }
+
+hr {
+  margin: 40px auto;
+  width: 50%;
+  border: 1px solid #ccc;
+}
+
+a {
+  color: #2d6a4f;
+}
